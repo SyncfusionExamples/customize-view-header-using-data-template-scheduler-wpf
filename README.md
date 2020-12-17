@@ -1,2 +1,1 @@
-# customize-view-header-using-data-template-scheduler-wpf
-How to customize the view header using DataTemplate in WPF Schedule (SfScheduler)
+**[View document in Syncfusion Wpf Knowledge base](https://www.syncfusion.com/kb/12183/how-to-customize-the-view-header-using-datatemplate-in-wpf-schedule-sfscheduler)**
